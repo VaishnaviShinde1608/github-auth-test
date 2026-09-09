@@ -1,0 +1,2 @@
+This is file in Practical no 3.
+This is branch craetion and merging practical.
